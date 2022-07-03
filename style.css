@@ -1,0 +1,164 @@
+.gradient_box {
+    text-align: center;
+    border: 5px;
+    color: #FFF000;
+    background-clip: padding-box; 
+    border: solid border transparent;
+    border-radius: 1px;
+  
+      margin: border;
+      border-radius: inherit;
+      background: linear-gradient(to right, white,red,green,blue, black);
+    }
+  
+  
+  div {
+   padding: 20px;
+  }
+  p {
+   border: solid 12px white;
+   border-radius: 12px;
+  }
+  
+  .grad_rojo {
+   background: linear-gradient(#000000, #ff0000) ;
+  }
+  .grad_verde {
+   background: linear-gradient(#000000,#00ff00);
+  }
+  .grad_azul {
+   background: linear-gradient(#000000,#0000ff);
+  }
+  
+  .Azul_1,.Azul_2,.Azul_3,.Azul_4,.Azul_5,.Azul_6,.Azul_7,.Azul_8,.Azul_9,.Azul_10,
+  .Verde_1, .Verde_2, .Verde_3, .Verde_4, .Verde_5, .Verde_6, .Verde_7, .Verde_8, .Verde_9, .Verde_10, 
+  .Rojo_1, .Rojo_2, .Rojo_3, .Rojo_4, .Rojo_5, .Rojo_6, .Rojo_7, .Rojo_8, .Rojo_9, .Rojo_10 {
+    text-align: center;
+  }
+  
+  .Rojo_1 {
+  background-color: #010000;
+  color: white;
+  }
+  .Rojo_2 {
+  background-color: #1b0000;
+  color: white;
+  }
+  .Rojo_3 {
+  background-color: #350000;
+  color: white;
+  }
+  .Rojo_4 {
+  background-color: #500000;
+  color: white;
+  }
+  .Rojo_5 {
+  background-color: #6a0000;
+  color: white;
+  }
+  .Rojo_6 {
+  background-color: #850000;
+  color: white;
+  }
+  .Rojo_7 {
+  background-color: #a00000;
+  color: white;
+  }
+  .Rojo_8 {
+  background-color: #ba0000;
+  color: white;
+  }
+  .Rojo_9 {
+  background-color: #d50000;
+  color: white;
+  }
+  .Rojo_10 {
+  background-color: #f00000;
+  color: white;
+  }
+  
+  
+  
+  .Verde_1 {
+  background-color: #000100;
+  color: white;
+  }
+  .Verde_2 {
+  background-color: #001b00;
+  color: white;
+  }
+  .Verde_3 {
+  background-color: #003500;
+  color: white;
+  }
+  .Verde_4 {
+  background-color: #005000;
+  color: white;
+  }
+  .Verde_5 {
+  background-color: #006a00;
+  color: white;
+  }
+  .Verde_6 {
+  background-color: #008500;
+  color: white;
+  }
+  .Verde_7 {
+  background-color: #00a000;
+  color: white;
+  }
+  .Verde_8 {
+  background-color: #00ba00;
+  color: white;
+  }
+  .Verde_9 {
+  background-color: #00d500;
+  color: white;
+  }
+  .Verde_10 {
+  background-color: #00f000;
+  color: white;
+  }
+  
+  
+  
+  .Azul_1 {
+  background-color: #000001;
+  color: white;
+  }
+  .Azul_2 {
+  background-color: #00001b;
+  color: white;
+  }
+  .Azul_3 {
+  background-color: #000035;
+  color: white;
+  }
+  .Azul_4 {
+  background-color: #000050;
+  color: white;
+  }
+  .Azul_5 {
+  background-color: #00006a;
+  color: white;
+  }
+  .Azul_6 {
+  background-color: #000085;
+  color: white;
+  }
+  .Azul_7 {
+  background-color: #0000a0;
+  color: white;
+  }
+  .Azul_8 {
+  background-color: #0000ba;
+  color: white;
+  }
+  .Azul_9 {
+  background-color: #0000d5;
+  color: white;
+  }
+  .Azul_10 {
+  background-color: #0000f0;
+  color: white;
+  }
